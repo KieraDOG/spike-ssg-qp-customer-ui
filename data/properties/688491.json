@@ -1,0 +1,538 @@
+{
+  "id": "688491",
+  "name": "OYO 616 Express Inn",
+  "description": "<strong>Property Location</strong><p>Located in Palembang, OYO 616 Express Inn is a 4-minute drive from Palembang Square Mall and 5 minutes from Jakabaring Stadium. This hotel is 1.8 mi (2.9 km) from Palembang Indah Mall and 2 mi (3.2 km) from Museum Balaputra Dewa.</p><strong>Rooms</strong><p>Make yourself at home in one of the 39 air-conditioned rooms featuring flat-screen televisions. Complimentary wireless Internet access is available to keep you connected. Bathrooms have showers and complimentary toiletries. Conveniences include complimentary bottled water, and housekeeping is provided daily.</p><strong>Amenities</strong><p>Make use of convenient amenities, which include complimentary wireless Internet access and a television in a common area.</p><strong>Business, Other Amenities</strong><p>Featured amenities include express check-in, express check-out, and a 24-hour front desk. Free self parking is available onsite.</p><strong>Attractions</strong><p>Distances are displayed to the nearest 0.1 mile and kilometer. <br> </p><p>Palembang Square Mall - 1.1 km / 0.7 mi <br> Jakabaring Stadium - 1.5 km / 0.9 mi <br> Museum Balaputra Dewa - 2.9 km / 1.8 mi <br> Palembang Indah Mall - 3 km / 1.8 mi <br> Great Mosque of Palembang - 3.8 km / 2.4 mi <br> Masjid Agung Grand Mosque - 4 km / 2.5 mi <br> Ampera Bridge - 4.6 km / 2.8 mi <br> Al-Munawar Arab Village - 4.6 km / 2.9 mi <br> Palembang Golf Club - 5.8 km / 3.6 mi <br> Jakabaring Sport City - 9.3 km / 5.8 mi <br> Cheng Ho Mosque - 9.6 km / 5.9 mi <br> Al-Qur'an Al-Akbar - 9.9 km / 6.2 mi <br> Pulau Kemaro Pagoda - 12.1 km / 7.5 mi <br> </p><p>The nearest major airport is Palembang (PLM-Sultan Mahmud Badaruddin II) - 10.7 km / 6.7 mi</p><p></p>",
+  "rating": 2.5,
+  "ratingType": "SELF_RATED",
+  "checkInAfter": "14:00",
+  "checkOutBefore": "12:00",
+  "geolocation": {
+    "lat": -2.97045,
+    "lng": 104.738
+  },
+  "propertyPolicies": "<div>Extra-person charges may apply and vary depending on property policy. <br>Government-issued photo identification and a credit card, debit card, or cash deposit are required at check-in for incidental charges. <br>Special requests are subject to availability upon check-in and may incur additional charges. Special requests cannot be guaranteed. <ul> </ul></div><div><ul> <li>One child 5 years old or younger stays free when occupying the parent or guardian's room, using existing bedding. </li> </ul></div><p>Bed Types are requests only and may not be honoured at the hotel if availability does not permit.</p>",
+  "facilities": [
+    "Free self parking",
+    "Free WiFi",
+    "Smoke-free property",
+    "24-hour front desk",
+    "Television in common areas",
+    "Multilingual staff",
+    "Express check-in",
+    "Express check-out",
+    "Luggage storage",
+    "Elevator"
+  ],
+  "mainImage": {
+    "caption": "",
+    "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/7aa80991_n.jpg",
+    "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/7aa80991_b.jpg",
+    "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/7aa80991_z.jpg",
+    "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/7aa80991_b.jpg"
+  },
+  "images": [
+    {
+      "caption": "",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/7aa80991_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/7aa80991_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/7aa80991_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/7aa80991_z.jpg"
+    },
+    {
+      "caption": "Featured Image",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/da4166be_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/da4166be_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/da4166be_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/da4166be_z.jpg"
+    },
+    {
+      "caption": "Lobby",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/24d9dc98_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/24d9dc98_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/24d9dc98_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/24d9dc98_z.jpg"
+    },
+    {
+      "caption": "Lobby",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/cc456e2d_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/cc456e2d_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/cc456e2d_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/cc456e2d_z.jpg"
+    },
+    {
+      "caption": "Lobby",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/a3de4dc4_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/a3de4dc4_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/a3de4dc4_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/a3de4dc4_z.jpg"
+    },
+    {
+      "caption": "Reception",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/14754670_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/14754670_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/14754670_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/14754670_z.jpg"
+    },
+    {
+      "caption": "Reception",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/04595eed_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/04595eed_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/04595eed_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/04595eed_z.jpg"
+    },
+    {
+      "caption": "Reception",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/b78ccf2e_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/b78ccf2e_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/b78ccf2e_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/b78ccf2e_z.jpg"
+    },
+    {
+      "caption": "",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/bfd11218_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/bfd11218_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/bfd11218_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/bfd11218_z.jpg"
+    },
+    {
+      "caption": "",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/a7dd8fff_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/a7dd8fff_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/a7dd8fff_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/a7dd8fff_z.jpg"
+    },
+    {
+      "caption": "",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/eda61c75_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/eda61c75_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/eda61c75_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/eda61c75_z.jpg"
+    },
+    {
+      "caption": "",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/cef12e1d_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/cef12e1d_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/cef12e1d_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/cef12e1d_z.jpg"
+    },
+    {
+      "caption": "",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/6425f072_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/6425f072_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/6425f072_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/6425f072_z.jpg"
+    },
+    {
+      "caption": "",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/1c48fda6_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/1c48fda6_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/1c48fda6_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/1c48fda6_z.jpg"
+    },
+    {
+      "caption": "",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/43063699_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/43063699_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/43063699_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/43063699_z.jpg"
+    },
+    {
+      "caption": "",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/5702b569_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/5702b569_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/5702b569_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/5702b569_z.jpg"
+    },
+    {
+      "caption": "",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/b3370424_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/b3370424_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/b3370424_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/b3370424_z.jpg"
+    },
+    {
+      "caption": "",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/8bcac142_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/8bcac142_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/8bcac142_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/8bcac142_z.jpg"
+    },
+    {
+      "caption": "",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/5768a869_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/5768a869_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/5768a869_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/5768a869_z.jpg"
+    },
+    {
+      "caption": "",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/3ddea1ac_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/3ddea1ac_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/3ddea1ac_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/3ddea1ac_z.jpg"
+    },
+    {
+      "caption": "",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/ab3c8d05_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/ab3c8d05_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/ab3c8d05_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/ab3c8d05_z.jpg"
+    },
+    {
+      "caption": "",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/4e5da153_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/4e5da153_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/4e5da153_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/4e5da153_z.jpg"
+    },
+    {
+      "caption": "",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/5b4531f2_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/5b4531f2_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/5b4531f2_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/5b4531f2_z.jpg"
+    },
+    {
+      "caption": "",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/d7d9f91f_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/d7d9f91f_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/d7d9f91f_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/d7d9f91f_z.jpg"
+    },
+    {
+      "caption": "Property Amenity",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/ef0a7cb0_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/ef0a7cb0_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/ef0a7cb0_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/ef0a7cb0_z.jpg"
+    },
+    {
+      "caption": "Property Amenity",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/d46940a3_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/d46940a3_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/d46940a3_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/d46940a3_z.jpg"
+    },
+    {
+      "caption": "Dining",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/fdd2f109_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/fdd2f109_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/fdd2f109_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/fdd2f109_z.jpg"
+    },
+    {
+      "caption": "Dining",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/1d506be4_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/1d506be4_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/1d506be4_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/1d506be4_z.jpg"
+    },
+    {
+      "caption": "Dining",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/6897bc2a_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/6897bc2a_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/6897bc2a_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/6897bc2a_z.jpg"
+    },
+    {
+      "caption": "Hallway",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/1ad75e09_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/1ad75e09_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/1ad75e09_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/1ad75e09_z.jpg"
+    },
+    {
+      "caption": "Hallway",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/3ab2e871_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/3ab2e871_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/3ab2e871_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/3ab2e871_z.jpg"
+    },
+    {
+      "caption": "Hallway",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/ce8affc0_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/ce8affc0_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/ce8affc0_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/ce8affc0_z.jpg"
+    },
+    {
+      "caption": "Hallway",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/4460c539_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/4460c539_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/4460c539_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/4460c539_z.jpg"
+    },
+    {
+      "caption": "Staircase",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/7e0444da_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/7e0444da_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/7e0444da_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/7e0444da_z.jpg"
+    },
+    {
+      "caption": "Staircase",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/a0d76a9a_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/a0d76a9a_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/a0d76a9a_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/a0d76a9a_z.jpg"
+    },
+    {
+      "caption": "Staircase",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/35650ddf_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/35650ddf_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/35650ddf_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/35650ddf_z.jpg"
+    },
+    {
+      "caption": "Staircase",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/88fb3e3e_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/88fb3e3e_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/88fb3e3e_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/88fb3e3e_z.jpg"
+    },
+    {
+      "caption": "Exterior",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/f23397be_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/f23397be_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/f23397be_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/f23397be_z.jpg"
+    },
+    {
+      "caption": "Exterior",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/40676f32_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/40676f32_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/40676f32_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/40676f32_z.jpg"
+    },
+    {
+      "caption": "Exterior",
+      "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/ecf7f925_n.jpg",
+      "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/ecf7f925_b.jpg",
+      "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/ecf7f925_b.jpg",
+      "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/ecf7f925_z.jpg"
+    }
+  ],
+  "address": "45, Jalan Angkatan, 45 Lorong Persatuan, Palembang 30137, Indonesia",
+  "suburb": "Palembang",
+  "roomTypes": [
+    {
+      "id": "5219047",
+      "maxOccupants": 2,
+      "name": "Standard Twin Room, 2 Twin Beds",
+      "description": "<p><strong>2 Twin Beds</strong></p><p>161 sq feet (15 sq meters)</p><br><p><b>Internet</b> - Free WiFi </p><p><b>Entertainment</b> - Flat-screen TV </p><p><b>Food &amp; Drink</b> - Free bottled water</p><p><b>Sleep</b> - Linens </p><p><b>Bathroom</b> - Private bathroom, shower, free toiletries, and towels</p><p><b>Comfort</b> - Air conditioning and daily housekeeping</p><p><b>Need to Know</b> - No cribs (infant beds) or rollaway/extra beds available</p><p>Non-Smoking</p>",
+      "facilities": [
+        "Non-Smoking",
+        "Free toiletries",
+        "Daily housekeeping",
+        "Free WiFi",
+        "Shower only",
+        "Linens provided",
+        "Private bathroom",
+        "Towels provided",
+        "Flat-panel TV",
+        "Air conditioning",
+        "Free bottled water",
+        "Soap",
+        "Shampoo",
+        "Toilet paper"
+      ],
+      "mainImage": {
+        "caption": "",
+        "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/bfd11218_n.jpg",
+        "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/bfd11218_b.jpg",
+        "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/bfd11218_z.jpg",
+        "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/bfd11218_b.jpg"
+      },
+      "images": [
+        {
+          "caption": "",
+          "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/bfd11218_n.jpg",
+          "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/bfd11218_b.jpg",
+          "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/bfd11218_b.jpg",
+          "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/bfd11218_z.jpg"
+        },
+        {
+          "caption": "",
+          "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/a7dd8fff_n.jpg",
+          "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/a7dd8fff_b.jpg",
+          "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/a7dd8fff_b.jpg",
+          "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/a7dd8fff_z.jpg"
+        },
+        {
+          "caption": "",
+          "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/eda61c75_n.jpg",
+          "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/eda61c75_b.jpg",
+          "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/eda61c75_b.jpg",
+          "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/eda61c75_z.jpg"
+        },
+        {
+          "caption": "",
+          "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/cef12e1d_n.jpg",
+          "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/cef12e1d_b.jpg",
+          "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/cef12e1d_b.jpg",
+          "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/cef12e1d_z.jpg"
+        },
+        {
+          "caption": "",
+          "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/6425f072_n.jpg",
+          "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/6425f072_b.jpg",
+          "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/6425f072_b.jpg",
+          "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/6425f072_z.jpg"
+        },
+        {
+          "caption": "",
+          "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/5b4531f2_n.jpg",
+          "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/5b4531f2_b.jpg",
+          "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/5b4531f2_b.jpg",
+          "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/5b4531f2_z.jpg"
+        }
+      ]
+    },
+    {
+      "id": "5219048",
+      "maxOccupants": 3,
+      "name": "Superior Suite, Multiple Beds",
+      "description": "<p><strong>1 Double Bed and 1 Twin Bed</strong></p><p>161 sq feet (15 sq meters)</p><br><p><b>Internet</b> - Free WiFi </p><p><b>Entertainment</b> - Flat-screen TV </p><p><b>Food &amp; Drink</b> - Free bottled water</p><p><b>Sleep</b> - Linens </p><p><b>Bathroom</b> - Private bathroom, shower, free toiletries, and towels</p><p><b>Comfort</b> - Air conditioning and daily housekeeping</p><p><b>Need to Know</b> - No cribs (infant beds) or rollaway/extra beds available</p><p>Non-Smoking</p>",
+      "facilities": [
+        "Non-Smoking",
+        "Free toiletries",
+        "Daily housekeeping",
+        "Free WiFi",
+        "Shower only",
+        "Linens provided",
+        "Private bathroom",
+        "Towels provided",
+        "Flat-panel TV",
+        "Air conditioning",
+        "Free bottled water",
+        "Soap",
+        "Shampoo",
+        "Toilet paper"
+      ],
+      "mainImage": {
+        "caption": "",
+        "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/1c48fda6_n.jpg",
+        "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/1c48fda6_b.jpg",
+        "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/1c48fda6_z.jpg",
+        "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/1c48fda6_b.jpg"
+      },
+      "images": [
+        {
+          "caption": "",
+          "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/1c48fda6_n.jpg",
+          "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/1c48fda6_b.jpg",
+          "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/1c48fda6_b.jpg",
+          "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/1c48fda6_z.jpg"
+        },
+        {
+          "caption": "",
+          "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/43063699_n.jpg",
+          "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/43063699_b.jpg",
+          "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/43063699_b.jpg",
+          "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/43063699_z.jpg"
+        },
+        {
+          "caption": "",
+          "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/5702b569_n.jpg",
+          "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/5702b569_b.jpg",
+          "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/5702b569_b.jpg",
+          "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/5702b569_z.jpg"
+        },
+        {
+          "caption": "",
+          "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/b3370424_n.jpg",
+          "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/b3370424_b.jpg",
+          "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/b3370424_b.jpg",
+          "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/b3370424_z.jpg"
+        },
+        {
+          "caption": "",
+          "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/8bcac142_n.jpg",
+          "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/8bcac142_b.jpg",
+          "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/8bcac142_b.jpg",
+          "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/8bcac142_z.jpg"
+        },
+        {
+          "caption": "",
+          "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/d7d9f91f_n.jpg",
+          "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/d7d9f91f_b.jpg",
+          "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/d7d9f91f_b.jpg",
+          "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/d7d9f91f_z.jpg"
+        }
+      ]
+    },
+    {
+      "id": "5219049",
+      "maxOccupants": 2,
+      "name": "Standard Double Room, 1 Double Bed",
+      "description": "<p><strong>1 Double Bed</strong></p><p>161 sq feet (15 sq meters)</p><br><p><b>Internet</b> - Free WiFi </p><p><b>Entertainment</b> - Flat-screen TV </p><p><b>Food &amp; Drink</b> - Free bottled water</p><p><b>Sleep</b> - Linens </p><p><b>Bathroom</b> - Private bathroom, shower, free toiletries, and towels</p><p><b>Comfort</b> - Air conditioning and daily housekeeping</p><p><b>Need to Know</b> - No cribs (infant beds) or rollaway/extra beds available</p><p>Non-Smoking</p>",
+      "facilities": [
+        "Non-Smoking",
+        "Free toiletries",
+        "Daily housekeeping",
+        "Free WiFi",
+        "Shower only",
+        "Linens provided",
+        "Private bathroom",
+        "Towels provided",
+        "Flat-panel TV",
+        "Air conditioning",
+        "Free bottled water",
+        "Soap",
+        "Shampoo",
+        "Toilet paper"
+      ],
+      "mainImage": {
+        "caption": "",
+        "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/7aa80991_n.jpg",
+        "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/7aa80991_b.jpg",
+        "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/7aa80991_z.jpg",
+        "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/7aa80991_b.jpg"
+      },
+      "images": [
+        {
+          "caption": "",
+          "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/7aa80991_n.jpg",
+          "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/7aa80991_b.jpg",
+          "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/7aa80991_b.jpg",
+          "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/7aa80991_z.jpg"
+        },
+        {
+          "caption": "",
+          "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/5768a869_n.jpg",
+          "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/5768a869_b.jpg",
+          "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/5768a869_b.jpg",
+          "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/5768a869_z.jpg"
+        },
+        {
+          "caption": "",
+          "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/3ddea1ac_n.jpg",
+          "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/3ddea1ac_b.jpg",
+          "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/3ddea1ac_b.jpg",
+          "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/3ddea1ac_z.jpg"
+        },
+        {
+          "caption": "",
+          "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/ab3c8d05_n.jpg",
+          "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/ab3c8d05_b.jpg",
+          "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/ab3c8d05_b.jpg",
+          "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/ab3c8d05_z.jpg"
+        },
+        {
+          "caption": "",
+          "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/4e5da153_n.jpg",
+          "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/4e5da153_b.jpg",
+          "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/4e5da153_b.jpg",
+          "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/4e5da153_z.jpg"
+        },
+        {
+          "caption": "",
+          "small": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/d7d9f91f_n.jpg",
+          "original": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/d7d9f91f_b.jpg",
+          "medium": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/d7d9f91f_b.jpg",
+          "large": "https://i.travelapi.com/hotels/37000000/36150000/36141100/36141070/d7d9f91f_z.jpg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "name": "melbourne",
+  "title": "Melbourne",
+  "description": "When visiting Melbourne, it is easy to see why it is regarded as one of the best cities in the world. Those seeking out culture will be right at home be it visiting the headline exhibitions at the National Gallery of Victoria or watching some of the best names on the comedy circuit perform at the The Comics Lounge. For those with an inclination to shop, Melbourne Emporium and Chadstone shopping centre showcase some of the biggest names in international and Australian designs. For food and wine enthusiasts, you can’t go wrong in Melbourne. Daytime will see you enjoy some of the best coffee and brunches available, whilst evenings can be spent in fine dining establishments, quirky restaurants, classic pubs or grungy bars – there is literally something for everyone.",
+  "heroMetadata": {
+    "title": "Book your holiday in Melbourne",
+    "text": "Known as the cultural capital of Australia, Melbourne offers its visitors a vast array of activities to enjoy – be it sipping coffee in Hosier Lane, catching a display at the National Gallery or shopping till you drop – ensuring your holiday will be packed to the brim.",
+    "caption": ""
+  },
+  "searchConfig": {
+    "destinationCode": "MEL",
+    "originCodes": [
+      "SYD",
+      "CBR",
+      "BNE",
+      "MCY",
+      "ADL",
+      "CNS",
+      "HBA",
+      "LST",
+      "OOL",
+      "BME",
+      "DPO",
+      "MQL",
+      "PER"
+    ]
+  },
+  "properties": [{
+    "id": "688491",
+  "name": "OYO 616 Express Inn",
+    "tagline": "Undoubtedly the most enviable location on the banks of the Yarra River",
+    "shortDescription": "",
+    "tags": [
+      {
+        "name": "Luxury",
+        "code": "luxury"
+      },
+      {
+        "name": "City break",
+        "code": "city_break"
+      }
+    ]
+  }],
+  "relatedDestinations": [
+    {
+      "name": "adelaide",
+      "title": "Adelaide"
+    },
+    {
+      "name": "byron-bay",
+      "title": "Byron Bay"
+    },
+    {
+      "name": "sydney",
+      "title": "Sydney"
+    },
+    {
+      "name": "hobart",
+      "title": "Hobart"
+    }
+  ]
+}
